@@ -82,17 +82,15 @@
   /* color: rgb(169, 169, 169); */
 }
 
-<<<<<<< HEAD
 .logo {
   width: 15vw;
-=======
 /*CSS for right panel of site*/
+}
 
 .right-panel {
   background-color: blue;
   grid-column-start: 3;
   grid-row-start: 2;
->>>>>>> 8855ff45fde8696c50abbc34339aca03afea4da0
 }
 
 
